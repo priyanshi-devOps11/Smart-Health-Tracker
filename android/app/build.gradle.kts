@@ -10,6 +10,7 @@ android {
     ndkVersion = "27.0.12077973"
 
 
+
     defaultConfig {
         applicationId = "com.example.smart_health_tracker"
         minSdk = flutter.minSdkVersion
