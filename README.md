@@ -1,16 +1,56 @@
-# smart_health_tracker
+# 🩺 Smart Health Tracker
 
-A new Flutter project.
+A Flutter-based application designed to help users monitor and track their health metrics such as BMI, heart rate, sleep patterns, steps, and water intake.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎥 Demo Video
+[▶️ Watch the demo](demo_video/demo_video_sr.mp4)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Features
+- 📊 Track BMI, heart rate, steps, water intake, and sleep cycle  
+- 📅 Daily logs and history  
+- 🔔 Notifications & reminders  
+- 🔐 Secure authentication system  
+- 🌐 Cross-platform support (Android, iOS, Web, Desktop)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Getting Started
+
+### Prerequisites
+- Install [Flutter SDK](https://docs.flutter.dev/get-started/install)  
+- Install [Dart](https://dart.dev/get-dart)  
+- Use Android Studio or VS Code as IDE  
+
+### Installation
+Clone the repository:
+git clone https://github.com/priyanshi-devOps11/Smart-Health-Tracker.git
+cd Smart-Health-Tracker
+install dependencies
+flutter pub get
+run app
+flutter run
+
+🤝 Contributing
+
+Contributions are welcome!
+Fork the repository
+Create a new branch (feature/new-feature)
+Commit your changes
+Push and create a Pull Request
+
+👩‍💻 Author
+
+Priyanshi Srivastava
+GitHub: @priyanshi-devOps11
+LinkedIn: Priyanshi Srivastava
+ (link)
+
+Email: (srivastavapriyanshi8081@gmail.com)
+
+📜 License
+
+This project is licensed under the MIT License. 
