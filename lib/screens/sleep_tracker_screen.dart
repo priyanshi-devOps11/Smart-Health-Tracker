@@ -8,7 +8,6 @@ import 'package:fl_chart/fl_chart.dart';
 // Uncomment the following line and add usage_stats in pubspec.yaml (Android only)
 // import 'package:usage_stats/usage_stats.dart';
 
-/// **************************************
 /// SleepTrackerScreen
 /// Features:
 /// 1. Start / End sleep session
@@ -16,7 +15,6 @@ import 'package:fl_chart/fl_chart.dart';
 /// 3. Bedtime scheduler with notification
 /// 4. Screen‑time before bed (Android UsageStats) – fallback to N/A on iOS
 /// 5. Weekly bar‑chart analytics
-/// **************************************
 
 class SleepTrackerScreen extends StatefulWidget {
   const SleepTrackerScreen({super.key});
