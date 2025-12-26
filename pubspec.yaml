@@ -44,7 +44,5 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-
-  # Optional if you want to use custom images later
   assets:
     - assets/images/
