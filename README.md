@@ -82,7 +82,7 @@ Open a Pull Request.
 
 👩‍💻 Author
 Priyanshi Srivastava 
-GitHub: @priyanshi-devOps11
+GitHub: [@priyanshi-devOps11](https://github.com/priyanshi-devOps11)
 LinkedIn: [Priyanshi Srivastava](https://www.linkedin.com/in/priyanshi-srivastava8119/)
 Email: srivastavapriyanshi8081@gmail.com
 
