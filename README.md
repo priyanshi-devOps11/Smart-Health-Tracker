@@ -34,7 +34,7 @@
 
 The project is built using the following core technologies:
 
-- **Framework:** Flutter SDK (>= 3.3.0) 
+- **Framework:** Flutter SDK
 - **Language:** Dart 
 - **Persistence:** Shared Preferences 
 - **Notifications:** Flutter Local Notifications 
