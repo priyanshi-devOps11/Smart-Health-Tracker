@@ -45,7 +45,7 @@ The project is built using the following core technologies:
 ## 💻 Getting Started
 
 ### Prerequisites
-- [Flutter SDK](https://docs.flutter.dev/get-started/install) (>= 3.3.0) 
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)  
 - [Dart SDK](https://dart.dev/get-dart) 
 - Physical device recommended for sensor-based features (Camera/Pedometer) 
 
