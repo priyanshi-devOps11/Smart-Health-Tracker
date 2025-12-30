@@ -13,7 +13,7 @@
 
 | Home Screen | Water Tracking | Heart Rate |
 | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/priyanshi-devOps11/Smart-Health-Tracker/main/demo_video/screenshots/home.png" width="200" alt="Home Screen" /> | <img src="https://raw.githubusercontent.com/priyanshi-devOps11/Smart-Health-Tracker/main/demo_video/screenshots/water.png" width="200" alt="Water Tracker" /> | <img src="https://raw.githubusercontent.com/priyanshi-devOps11/Smart-Health-Tracker/main/demo_video/screenshots/heart.png" width="200" alt="Heart Rate" /> |
+| <img src="https://github.com/priyanshi-devOps11/Smart-Health-Tracker/blob/main/demo_video/Screenshot_20251227_001235.jpg width="200" alt="Home Screen" /> | <img src="https://raw.githubusercontent.com/priyanshi-devOps11/Smart-Health-Tracker/main/demo_video/screenshots/water.png" width="200" alt="Water Tracker" /> | <img src="https://raw.githubusercontent.com/priyanshi-devOps11/Smart-Health-Tracker/main/demo_video/screenshots/heart.png" width="200" alt="Heart Rate" /> |
 
 > [!TIP]
 > **[▶️ Watch the Full Demo Video](https://github.com/priyanshi-devOps11/Smart-Health-Tracker/blob/main/demo_video/demo_video_sr.mp4)** 
