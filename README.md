@@ -54,17 +54,13 @@ The project is built using the following core technologies:
 ### Installation
 
 Clone the repository:
-
-Bash
-
 git clone [https://github.com/priyanshi-devOps11/Smart-Health-Tracker.git](https://github.com/priyanshi-devOps11/Smart-Health-Tracker.git)
 cd Smart-Health-Tracker
    
 Install dependencies:
-
 flutter pub get
-Run the application:
 
+Run the application:
 flutter run
 
 🤝 Contributing
