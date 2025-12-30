@@ -62,12 +62,8 @@ cd Smart-Health-Tracker
    
 Install dependencies:
 
-Bash
-
 flutter pub get
 Run the application:
-
-Bash
 
 flutter run
 
