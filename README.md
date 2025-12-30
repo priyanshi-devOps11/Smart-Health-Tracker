@@ -13,7 +13,7 @@
 
 | Home Screen | Water Tracking | Sleep Tracker |
 | :---: | :---: | :---: |
-| <img src="https://github.com/priyanshi-devOps11/Smart-Health-Tracker/blob/main/demo_video/Screenshot_20251227_001235.jpg" /> | <img src="https://github.com/priyanshi-devOps11/Smart-Health-Tracker/blob/main/demo_video/Screenshot_20251227_001316.jpg" width="200" alt="Water Tracker" /> | <img src="https://github.com/priyanshi-devOps11/Smart-Health-Tracker/blob/main/demo_video/Screenshot_20251227_001330.jpg" width="200" alt="Sleep Tracker" /> |
+| <img src="https://github.com/priyanshi-devOps11/Smart-Health-Tracker/blob/main/demo_video/Screenshot_20251227_001235.jpg" width="200" alt="Home Screen" /> | <img src="https://github.com/priyanshi-devOps11/Smart-Health-Tracker/blob/main/demo_video/Screenshot_20251227_001316.jpg" width="200" alt="Water Tracker" /> | <img src="https://github.com/priyanshi-devOps11/Smart-Health-Tracker/blob/main/demo_video/Screenshot_20251227_001330.jpg" width="200" alt="Sleep Tracker" /> |
 
 > [!TIP]
 > **[▶️ Watch the Full Demo Video](https://github.com/priyanshi-devOps11/Smart-Health-Tracker/blob/main/demo_video/demo_video_sr.mp4)** 
