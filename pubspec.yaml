@@ -10,13 +10,11 @@ dependencies:
   flutter:
     sdk: flutter
 
-  # Firebase (optional - for login, data sync)
   firebase_core: ^2.30.0
   firebase_auth: ^4.17.7
   cloud_firestore: ^4.15.8
   google_sign_in: ^6.2.1
 
-   # Permissions
   permission_handler: ^11.3.0
 
   # Health & UI & Sensors
@@ -31,6 +29,7 @@ dependencies:
   fl_chart: ^0.66.0
   flutter_local_notifications: ^17.1.2
   timezone: ^0.9.2
+  
 
 
   intl: ^0.19.0
