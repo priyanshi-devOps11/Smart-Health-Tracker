@@ -9,7 +9,7 @@
 
 ---
 
-## 🎥 Project Showcase
+## 🎥 Project Showcase-
 
 | Home Screen | Water Tracking | Sleep Tracker |
 | :---: | :---: | :---: |
@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 Key Features
+## 🚀 Key Features-
 
 - **🚶 Step Tracker:** Real-time step counting utilizing the device pedometer.
 - **❤️ Heart Rate Monitor:** Innovative BPM detection using the device camera and sensor logic.
