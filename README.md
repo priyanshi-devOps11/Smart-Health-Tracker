@@ -63,6 +63,28 @@ flutter pub get
 Run the application:
 flutter run
 
+## 🚀 Live MVP Demo
+🔗 https://smart-health-tracker-mvp.web.app
+
+## 📌 MVP Scope
+This project is a full-app MVP of Smart Health Tracker.
+
+### Features in MVP
+- Dashboard with navigation
+- Manual tracking for:
+    - Steps
+    - Water intake
+    - BMI calculation
+    - Sleep hours
+    - Heart rate
+- Focused on validating complete user flow
+
+### Tech Stack
+- Flutter (Web)
+- Firebase Hosting
+
+
+
 🤝 Contributing
 We love contributions! Follow these steps to contribute:
 
