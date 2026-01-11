@@ -1,4 +1,4 @@
-import 'dart:async';
+/*import 'dart:async';
 import 'dart:math';
 import 'dart:typed_data';
 import 'package:camera/camera.dart';
@@ -157,3 +157,4 @@ class _HeartRateScreenState extends State<HeartRateScreen> {
     );
   }
 }
+*/

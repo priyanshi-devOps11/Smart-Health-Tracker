@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'step_tracker_screen.dart';
 import 'water_tracker_screen.dart';
-import 'heart_rate_screen.dart';
+//import 'heart_rate_screen.dart';
 import 'sleep_tracker_screen.dart';
 import 'bmi_screen.dart'; // ✅ Add this import
 
@@ -21,7 +21,7 @@ class HomeScreen extends StatelessWidget {
           children: [
             buildCard(context, "👣\nStep Tracker", const StepTrackerScreen()),
             buildCard(context, "💧\nWater Tracker", const WaterTrackerScreen()),
-            buildCard(context, "❤️\nHeart Rate", const HeartRateScreen()),
+            //buildCard(context, "❤️\nHeart Rate", const HeartRateScreen()),
             buildCard(context, "😴\nSleep Tracker", const SleepTrackerScreen()),
             buildCard(context, "📊\nBMI Calculator", const BmiScreen()), // ✅ New!
           ],
