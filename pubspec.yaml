@@ -1,6 +1,7 @@
 name: smart_health_tracker
-description: A Smart Health Tracker Flutter app
+description: A modern Smart Health Tracker Flutter app with step, water, sleep, and BMI tracking.
 publish_to: 'none'
+
 version: 1.0.0+1
 
 environment:
@@ -10,38 +11,53 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # -------------------------
+  # UI & Design
+  # -------------------------
+  cupertino_icons: ^1.0.6
+  provider: ^6.1.2
+  percent_indicator: ^4.2.3
+  fl_chart: ^0.66.0
+  intl: ^0.19.0
+
+  # -------------------------
+  # Animations & Effects
+  # -------------------------
+  animations: ^2.0.11
+
+  # -------------------------
+  # Local Storage
+  # -------------------------
+  shared_preferences: ^2.2.2
+
+  # -------------------------
+  # Sensors & Health Tracking
+  # -------------------------
+  pedometer: ^4.0.1
+  permission_handler: ^11.3.0
+
+  # -------------------------
+  # Notifications & Scheduling
+  # -------------------------
+  flutter_local_notifications: ^17.1.2
+  timezone: ^0.9.2
+
+  # -------------------------
+  # Firebase (Optional but Ready)
+  # -------------------------
   firebase_core: ^2.30.0
   firebase_auth: ^4.17.7
   cloud_firestore: ^4.15.8
   google_sign_in: ^6.2.1
 
-  permission_handler: ^11.3.0
-
-  # Health & UI & Sensors
-  pedometer: ^4.0.1
-  heart_bpm: ^2.0.0+0
-  camera: ^0.10.5+2
-  
-  provider: ^6.1.2
-  percent_indicator: ^4.2.3
-  shared_preferences: ^2.2.2 # To save water intake persistently
-
-  fl_chart: ^0.66.0
-  flutter_local_notifications: ^17.1.2
-  timezone: ^0.9.2
-  
-
-
-  intl: ^0.19.0
-
-  # Flutter essentials
-  cupertino_icons: ^1.0.6
-
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
+  flutter_lints: ^4.0.0
+
 flutter:
   uses-material-design: true
+
   assets:
     - assets/images/
