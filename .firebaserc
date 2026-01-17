@@ -1,5 +1,7 @@
 {
   "projects": {
     "default": "smart-health-tracker-mvp"
-  }
+  },
+  "targets": {},
+  "etags": {}
 }
