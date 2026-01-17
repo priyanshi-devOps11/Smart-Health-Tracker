@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'step_tracker_screen.dart';
-import 'water_tracker_screen.dart';
-import 'sleep_tracker_screen.dart';
+import 'water_tracker_screen.dart' as water;
+import 'sleep_tracker_screen.dart' as sleep;
 import 'bmi_screen.dart';
+import 'heart_rate_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
