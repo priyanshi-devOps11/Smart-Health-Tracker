@@ -95,7 +95,7 @@ class _WaterTrackerScreenState extends State<WaterTrackerScreen>
     setState(() {
       _waterCount++;
       final today = DateTime.now();
-      final todayStr = '${today.year}-${today.month}-${today.day}';
+      final todayStr = '${today.year}-${today.month.toString().padLeft(2, '0')}-${today.day.toString().padLeft(2, '0')}';
 
       final existing = _history.indexWhere((e) => e['date'] == todayStr);
       if (existing != -1) {
@@ -448,18 +448,22 @@ class _WaterTrackerScreenState extends State<WaterTrackerScreen>
                         if (value.toInt() >= _history.length) {
                           return const SizedBox();
                         }
-                        final date = DateTime.parse(
-                            _history[value.toInt()]['date']);
-                        return Padding(
-                          padding: const EdgeInsets.only(top: 8),
-                          child: Text(
-                            '${date.day}/${date.month}',
-                            style: const TextStyle(
-                              fontSize: 10,
-                              color: Colors.grey,
+                        try {
+                          final dateStr = _history[value.toInt()]['date'] as String;
+                          final date = DateTime.parse(dateStr);
+                          return Padding(
+                            padding: const EdgeInsets.only(top: 8),
+                            child: Text(
+                              '${date.day}/${date.month}',
+                              style: const TextStyle(
+                                fontSize: 10,
+                                color: Colors.grey,
+                              ),
                             ),
-                          ),
-                        );
+                          );
+                        } catch (e) {
+                          return const SizedBox();
+                        }
                       },
                     ),
                   ),
