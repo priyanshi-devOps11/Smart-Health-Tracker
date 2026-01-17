@@ -169,14 +169,21 @@ class HomeScreen extends StatelessWidget {
         subtitle: 'Stay hydrated',
         icon: Icons.water_drop,
         gradient: const [Color(0xFF4ECDC4), Color(0xFF44A08D)],
-        screen: const WaterTrackerScreen(),
+        screen: const water.WaterTrackerScreen(),
       ),
       TrackerItem(
         title: 'Sleep',
         subtitle: 'Rest well',
         icon: Icons.bedtime,
         gradient: const [Color(0xFF667EEA), Color(0xFF764BA2)],
-        screen: const SleepTrackerScreen(),
+        screen: const sleep.SleepTrackerScreen(),
+      ),
+      TrackerItem(
+        title: 'Heart',
+        subtitle: 'Monitor BPM',
+        icon: Icons.favorite,
+        gradient: const [Color(0xFFEF5350), Color(0xFFE53935)],
+        screen: const HeartRateScreen(),
       ),
       TrackerItem(
         title: 'BMI',
