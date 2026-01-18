@@ -102,3 +102,10 @@ Email: srivastavapriyanshi8081@gmail.com
 
 📜 License
 Distributed under the MIT License. See LICENSE for more information.
+
+⭐ Show Your Support
+Give a ⭐️ if this project helped you!
+
+<div align="center">
+Made with ❤️ and Flutter
+</div>
