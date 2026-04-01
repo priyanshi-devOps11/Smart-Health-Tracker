@@ -16,7 +16,6 @@
 ---
 
 ## 📱 Demo
-
 <div align="center">
 
 | Home Screen | Water Tracking | Sleep Tracker |
