@@ -1,5 +1,7 @@
 # 🩺 Smart Health Tracker
 
+A production-ready health monitoring solution designed during my technical internship at Banaras Locomotive Works. This app demonstrates the integration of native mobile hardware sensors with intuitive real-time data visualization.
+
 <div align="center">
 
 [![Flutter Version](https://img.shields.io/badge/Flutter-%3E%3D3.3.0-blue?logo=flutter)](https://flutter.dev)
