@@ -17,6 +17,7 @@ A production-ready health monitoring solution designed during my technical inter
 
 ---
 
+
 ## 📱 Demo
 <div align="center">
 
@@ -175,8 +176,8 @@ lib/
 - [x] Sleep session tracking
 - [x] BMI calculator with health tips
 - [x] Weekly analytics charts
-- [ ] Cloud sync with Firebase
-- [ ] Dark mode theme
+- [x] Cloud sync with Firebase
+- [x] Dark mode theme
 - [ ] Export data (PDF/CSV)
 - [ ] Social challenges
 - [ ] Workout routines
